@@ -43,7 +43,7 @@
 
 *X_train_1.npy, X_train_2.npy, X_train_3.npy*, тренировочные данные для трех пилотов  
 *y_train_1.npy, y_train_2.npy, y_train_3.npy*, целевая переменная тренировочных данных для трех пилотов  
-*X_test_dataset_1.pkl, X_test_dataset_2.pkl, X_test_dataset_3.pkl*, тестовыt данные для трех пилотов
+*X_test_dataset_1.pkl, X_test_dataset_2.pkl, X_test_dataset_3.pkl*, тестовые данные для трех пилотов  
 *sample_submission.csv*, образец submission.csv 
  
 *153.h5, 253.h5, 353.h5*, обученные модели для 3х пилотов
