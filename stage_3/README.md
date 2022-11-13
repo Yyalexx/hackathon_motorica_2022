@@ -46,7 +46,7 @@
 *X_test_dataset_1.pkl, X_test_dataset_2.pkl, X_test_dataset_3.pkl*, тестовые данные для трех пилотов  
 *sample_submission.csv*, образец submission.csv 
  
-*153.h5, 253.h5, 353.h5*, обученные модели для 3х пилотов
+*m1_best.h5, m2_best.h5, m3_best.h5*, обученные модели для 3х пилотов
 
 Ссылка для скачивания данных:  
 https://drive.google.com/drive/folders/1ES5WziqS4Rb1DZTfbrZjn831Hr5jP8xx?usp=sharing
