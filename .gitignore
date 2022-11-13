@@ -1,6 +1,3 @@
 *.csv
-*.h5
 *.npy
 *.pkl
-*.PNG
-*.png
