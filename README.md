@@ -1,8 +1,9 @@
-# hackathon_motorica_2022
+# hackathon_motorica_2022  
+Хакатон проводился на платформе **Kaggle**  
 3 этапа хакатона, совместно проведенного Motorica и Skillfactory
 # Motorica_2022  
 ## The task of gesture classification - Задача классификации жестов  
-Команда № 5
+Команда № 5  
 Состав команды:
 
 - Власов Владимир https://github.com/vip-v2a
