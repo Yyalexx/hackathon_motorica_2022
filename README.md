@@ -37,4 +37,4 @@
 - [1 этап](https://github.com/Yyalexx/hackathon_motorica_2022/tree/master/stage_1)  
 - [2 этап](https://github.com/Yyalexx/hackathon_motorica_2022/tree/master/stage_2)  
 - [3 этап](https://github.com/Yyalexx/hackathon_motorica_2022/tree/master/stage_3)  
-![](https://github.com/Yyalexx/hackathon_motorica_2022/blob/master/stage_3/certificat_SF.pdf)
+![](https://github.com/Yyalexx/hackathon_motorica_2022/blob/master/stage_3/certificat_SF.png)
